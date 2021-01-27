@@ -12,4 +12,5 @@ The sessions should be atleast 16 minutes or longer. The main idea of its usage 
 - The sessions should be atleast 15 minutes long after pressing "Auto Leave" button.
 
 
+This is a simple extension I developed for my use case.
 If you want to collaborate, add additional features or fix bugs then you're welcomed.
